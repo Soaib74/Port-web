@@ -1,0 +1,1107 @@
+
+.logocolor{
+    color: rgb(67, 39, 168);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .navbar-brand{
+    color: rgb(5, 115, 148);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 6px 5px 30px rgb(34, 53, 221);
+    border-radius: 25px 50px;
+    text-decoration: underline;
+    transition: 0.4s;
+  }
+    
+    .nav-link{
+      color: black;
+      font-weight: 500;
+      margin-left: 20px;
+      transition: 0.2s;
+    }
+    .nav-link:hover{
+      color: rgb(98, 117, 221);
+    }
+    .SingUp{
+      border: 1px solid rgb(38, 66, 224);
+      margin-left: 20px;
+      font-weight: 200;
+      border-radius: 15px;
+      transition: 0.5s;
+    }
+    .SingUp:hover{
+      color: rgb(255, 255, 255);
+      background-color: rgba(17, 16, 16, 0.733);
+      font-weight: 200;
+    }
+    .bgc{
+      background-color: rgba(0, 0, 0, 0.144);
+    }
+     
+      .section-1{
+        background-color: rgba(0, 0, 0, 0.226);
+        width: 100%;
+        height: 100vh;
+      }
+      .herosec .heroimg{
+        height: 500px;
+       margin-top: 100px;
+        border-radius: 20px;
+        box-shadow: 20px 18px 70px rgb(43, 52, 138);
+      }
+      .herosec h4{
+        padding-top: 100px;
+        color: rgba(184, 14, 161, 0.938);
+        font-size: 25px;
+
+        
+      }
+      .herosec h1{
+        color: rgb(92, 82, 80);
+        font-size: 40px;
+        line-height: 60px;
+      }
+      .herosec h1 .nametext{
+        color: rgb(92, 68, 197);
+      }
+      .herosec h1 .propetext{
+        color: rgb(179, 68, 68);
+      }
+      .herosec p{
+        color: rgb(78, 66, 66);
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 30px;
+      }
+      .herobuto{
+        padding: 7px 20px;
+        border: 1px solid rgb(59, 87, 216);
+        border-radius: 10px 30px 30px 10px;
+        background-color: hsla(0, 0%, 0%, 0);
+        font-weight: 600;
+        text-transform: uppercase;
+        transition: 0.5s;
+        
+      }
+      .herobuto:hover{
+        box-shadow: 6px 4px 20px rgb(65, 74, 148);
+        background-color: rgb(192, 55, 55);
+        color: white;
+      }
+      .sec2 img{
+        height: 400px;
+        box-shadow: 10px 6px 30px rgb(34, 53, 221);
+        border-radius: 30px 60px;
+      }
+      .sec2{
+        display: flex;
+      }
+      .sec2 .text2{
+        margin-left: 200px;
+        padding-top: 50px;
+        
+      }
+      .sec2 .text2 h3{
+        color: #ccc;
+        margin-bottom: 10px;
+      }
+      .sec2 .text2 h1{
+        color: #000;
+        font-size: 40px;
+        margin-top: 20px;
+      }
+      .sec2 .text2 p{
+        color: rgb(90, 87, 87);
+        font-size: 15px;
+        margin-top: 20px;
+        text-align: justify;
+      }
+      .sec2 .text2 button{
+        padding: 10px;
+        border-radius: 7px;
+        background-color: rgb(53, 51, 165);
+        color: #fff;
+        border: none;
+        box-shadow: 10px 8px 30px rgb(170, 54, 54);
+        transition: 0.5s;
+      }
+      .sec2 .text2 button:hover{
+        background-color: rgb(176, 39, 189);
+      }
+
+    .logocolor{
+      color: rgb(67, 39, 168);
+      font-family: 'Times New Roman', Times, serif;
+    }
+    .navbar-brand{
+      color: rgb(5, 115, 148);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      background-color: white;
+      padding: 15px;
+      box-shadow: 6px 5px 30px rgb(34, 53, 221);
+      border-radius: 25px 50px;
+      text-decoration: underline;
+      transition: 0.4s;
+    }
+      
+      .nav-link{
+        color: black;
+        font-weight: 500;
+        margin-left: 20px;
+        transition: 0.2s;
+      }
+      .nav-link:hover{
+        color: rgb(98, 117, 221);
+      }
+      .SingUp{
+        border: 1px solid rgb(38, 66, 224);
+        margin-left: 20px;
+        font-weight: 200;
+        border-radius: 15px;
+        transition: 0.5s;
+      }
+      .SingUp:hover{
+        color: rgb(255, 255, 255);
+        background-color: rgba(17, 16, 16, 0.733);
+        font-weight: 200;
+      }
+      .bgc{
+        background-color: rgba(0, 0, 0, 0.144);
+      }
+       
+        .section-1{
+          background-color: rgba(0, 0, 0, 0.226);
+          width: 100%;
+          height: 100vh;
+        }
+        .herosec .heroimg{
+          height: 500px;
+         margin-top: 100px;
+          border-radius: 20px;
+          box-shadow: 20px 18px 70px rgb(43, 52, 138);
+        }
+        .herosec h4{
+          padding-top: 100px;
+          color: rgba(184, 14, 161, 0.938);
+          font-size: 25px;
+
+          
+        }
+        .herosec h1{
+          color: rgb(92, 82, 80);
+          font-size: 40px;
+          line-height: 60px;
+        }
+        .herosec h1 .nametext{
+          color: rgb(92, 68, 197);
+        }
+        .herosec h1 .propetext{
+          color: rgb(179, 68, 68);
+        }
+        .herosec p{
+          color: rgb(78, 66, 66);
+          font-size: 15px;
+          font-weight: 500;
+          line-height: 30px;
+        }
+        .herobuto{
+          padding: 7px 20px;
+          border: 1px solid rgb(59, 87, 216);
+          border-radius: 10px 30px 30px 10px;
+          background-color: hsla(0, 0%, 0%, 0);
+          font-weight: 600;
+          text-transform: uppercase;
+          transition: 0.5s;
+          
+        }
+        .herobuto:hover{
+          box-shadow: 6px 4px 20px rgb(65, 74, 148);
+          background-color: rgb(192, 55, 55);
+          color: white;
+        }
+        .sec2 img{
+          height: 400px;
+          box-shadow: 10px 6px 30px rgb(34, 53, 221);
+          border-radius: 30px 60px;
+        }
+        .sec2{
+          display: flex;
+        }
+        .sec2 .text2{
+          margin-left: 200px;
+          padding-top: 50px;
+          
+        }
+        .sec2 .text2 h3{
+          color: #ccc;
+          margin-bottom: 10px;
+        }
+        .sec2 .text2 h1{
+          color: #000;
+          font-size: 40px;
+          margin-top: 20px;
+        }
+        .sec2 .text2 p{
+          color: rgb(90, 87, 87);
+          font-size: 15px;
+          margin-top: 20px;
+          text-align: justify;
+        }
+        .sec2 .text2 button{
+          padding: 10px;
+          border-radius: 7px;
+          background-color: rgb(53, 51, 165);
+          color: #fff;
+          border: none;
+          box-shadow: 10px 8px 30px rgb(170, 54, 54);
+          transition: 0.5s;
+        }
+        .sec2 .text2 button:hover{
+          background-color: rgb(176, 39, 189);
+        }
+        .sec3{
+          margin-top: 200px;
+        }
+        .sec3 h1{
+          color: #000;
+          font-weight: 700;
+
+        }
+        .sec3 p{
+          text-align: center;
+          color: rgb(90, 82, 82);
+          font-size: 16px;
+          margin-top: 10px;
+
+        }
+        .hetex h1{
+        text-align: center;
+        font-size: 42px;
+        font-weight: 400;
+        color: rgb(196, 65, 82);
+      }
+       .hetex p{
+          text-align: center;
+          margin-top: 20px;
+          color:  rgba(59, 56, 56, 0.842);
+          font-size: 17px;
+          font-weight: 300;
+       }
+       .sec3{
+        margin-top: 200px;
+      }
+      .hetex h1{
+        
+        font-size: 42px;
+        font-weight: 200;
+        color: antiquewhite;
+      }
+
+.items{
+      width: 100%;
+      height: 70%;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 60px;
+      margin-top: 70px;
+    }
+    .item{
+      background-color: bisque;
+      position: relative;
+      width: 250px;
+      height: 70%;
+      padding: 20px 20px 40px;
+      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+      border-radius: 15px;
+      flex-direction: column;
+      justify-content: space-between;
+      display: flex;
+      transition: 0.3s;
+      cursor: pointer;
+      
+    }
+    .item:hover{
+      background-color: rgb(80, 214, 231);
+      transform: translateY(-15px);
+    }
+    
+    .image img{
+      width: 100px;
+      height: 120px;
+      display: grid;
+      margin-left: 50px;
+    }
+     
+    .wdname h3{
+      text-align: center;
+      color: rgb(101, 68, 161);
+      padding-top: 7px;
+      font-size: 24px;
+      font-weight: 350;
+    }
+    .wdname p{
+      font-size: 16px;
+      color: rgb(0, 0, 0);
+    }
+    .section4{
+      width: 100%;
+      height: 300px;
+      background-color: rgb(56, 194, 204);
+    }
+    .ttext{
+      width: 100%;
+      height: 50%;
+      justify-content: center;
+      display: flex;
+      flex-wrap: wrap;
+      padding-top: 100px;
+    }
+    .text{
+      justify-content: space-between;
+      flex-direction: column;
+      margin-left: 10%;
+      
+    }
+    .text h1{
+      text-align: center;
+      color: white;
+      font-size: 50px;
+      cursor: pointer;
+      transition: 0.7s;
+    }
+    .text h1:hover{
+      color: rgb(115, 58, 161);
+    }
+    .text p{
+      color: white;
+      text-align: center;
+      font-size: 18px;
+      font-weight: 300;
+    }
+     
+    .sefivt h1{
+      text-align: center;
+      font-size: 41px;
+      margin-top: 50px;
+      color: #000;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+    .sefivt p{
+      text-align: center;
+      margin-top: 20px;
+      font-size: 18px;
+      color: #000;
+      font-weight: 400;
+
+    }
+    .olfps{
+      width: 100%;
+      display: flex;justify-content: center;
+      flex-wrap: wrap;
+      gap: 40px;margin-top: 50px;
+    }
+    .olfp{
+      flex-direction: column;
+      justify-content: space-around;
+      display: flex;
+    }
+    .plfptext h3{
+      text-align: center;
+      margin-top: 5px;
+
+    }
+    .plfptext p{
+      text-align: center;
+    }
+ 
+   .olfpim img{
+   border-radius: 15px;
+    transition: 0.5s
+    
+   }
+   .olfpim:hover img{
+    transform: translateY(-15px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+   }
+   .butext h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: rgb(223, 84, 84);
+    margin-top: 50px;
+    line-height: 15px;
+    letter-spacing: 4px;
+   }
+   .butext p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    color: rgb(146, 68, 68);
+   }
+   
+.bufes{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+  margin-top: 100px;
+}
+.bufe{
+ 
+  position: relative;
+    background-color: bisque;
+    width: 300px;
+    height: 80%;
+    padding: 20px 20px 40px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.bufe:hover{
+  background-color: rgb(127, 178, 255);
+  transform: scale(1.1);
+}
+.befte{
+  text-align: center;
+  transition: 0.5s;
+}
+.befte:hover{
+
+  color: white;
+}
+.befte h1{
+  font-size: 40px;
+}
+
+.befte h3{
+  margin-top: 20px;
+}
+.befte p{
+  margin-top: 15px;
+  font-size: 18px;
+}
+hr{
+  display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+.befte h2{
+  margin-top: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+  text-align: justify;
+  display: flex;
+  padding-top: 10px;
+}
+.bun{
+  position: absolute;
+  justify-content: center;
+  bottom: 35px;
+  right: 20px;
+  margin-bottom: 15px;
+}
+
+.bun button{
+    padding: 7px 15px;
+    border-radius: 7px;
+    border: none;
+    font-size: 18px;
+    background-color: rgba(78, 73, 73, 0.705);
+    color: rgb(216, 213, 213);
+    font-weight: 300;
+    margin-left: 90px;
+    cursor: pointer;
+    display: block;
+    transition: 0.5s;
+
+}
+.bun button:hover{
+    background-color: rgb(141, 27, 135);
+    color: aliceblue;
+    transform: scale(1.0);
+    margin-top: 60px;
+}
+footer{
+  width: 100%;
+ 
+  background: linear-gradient(to right, #253b42, #06191a );
+  position: absolute;
+  color: #fff;
+  padding: 100px 0 30px;  
+  border-top-left-radius: 125px;
+  font-size: 13px;
+  line-height: 20px;
+  
+}
+.row{
+  width: 85%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between
+  ;
+}
+.col{
+  flex-basis: 25%;
+  padding: 20px;
+}
+.col h1{
+  font-size: 37px;
+  background-color: #fff;
+  color: rgb(197, 126, 126);
+  text-align: center;
+  padding: 25px 25pxn 25px;
+  border-radius: 30px 5px 5px 5px;
+  width: 200px;
+  box-shadow: 0 4px 25px rgb(218, 140, 140);
+  font-weight: 00;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 30px;
+
+}
+.col h3{
+  width: fit-content;
+  margin-bottom: 40px;
+  position: relative;
+}
+.email-Id{
+  width: fit-content;
+  border-bottom: 1px solid #ccc;
+  margin: 20px 0;
+  cursor: pointer;
+}.nav-link{
+  color: #fff;
+  margin-bottom: -4px;
+  font-size: 15px;
+  margin-top: -7px;
+}
+ form{
+  padding-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 50px;
+
+ }
+ form .bi-envelope{
+  font-size: 18px;
+  margin-right: 10px;
+ }
+ form input{
+  width: 100%;
+  background: transparent;
+  border: 0;
+  outline: none;
+  color: #ccc;
+ }
+ form button{
+  background: transparent;
+  border: 0;
+  outline: none;
+  color: #ddd;
+ }
+ form .bi{
+  font-size: 16px;
+  color: #ddd;
+ }
+ .social-icon .bi{
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    margin-right: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+ }
+ .social-icon .bi:hover{
+  color: rgb(147, 88, 202);
+ }
+ footer span{
+  margin-left: 140px;
+  padding-top: 50px;
+  text-align: center;
+  color: #ddd;
+  letter-spacing: 2px;
+  transition: 0.5s;
+ }
+ footer span:hover{
+  color: rgb(240, 78, 232);
+ }
+/*---midia screen---*/
+@media screen and (max-width: 1199px) {
+
+}
+        @media screen and (max-width:991px) {
+     
+          .herosec .heroimg {
+    height: 369px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 20px 18px 70px rgb(43 52 138);
+}
+.navbar-brand {
+    color: rgb(5, 115, 148);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0px 5px 30px rgb(34 53 221);
+    border-radius: 25px 50px;
+    text-decoration: underline;
+    transition: 0.4s;
+}
+.herosec h1 {
+    color: rgb(92, 82, 80);
+    font-size: 27px;
+    line-height: 60px;
+}
+.herosec p {
+    color: rgb(78, 66, 66);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 26px;
+}.herobuto {
+    padding: 5px 14px;
+    border: 1px solid rgb(59, 87, 216);
+    border-radius: 10px 30px 30px 10px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.sec2 .text2 {
+    margin-left: 59px;
+    padding-top: 8px;
+}
+.sec2 .text2 button {
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(53, 51, 165);
+    color: #fff;
+    border: none;
+    box-shadow: -3px 1px 70px rgb(170 54 54);
+    transition: 0.5s;
+}
+.sec2 .text2 p {
+    color: rgb(90, 87, 87);
+    font-size: 10px;
+    margin-top: 12px;
+    text-align: justify;
+}
+.sec2 .text2 h1 {
+    color: #000;
+    font-size: 28px;
+    margin-top: 18px;
+}
+.sec2 .text2 h3 {
+    color: #ccc;
+    margin-bottom: -13px;
+}
+.sec2 img {
+    height: 215px;
+    box-shadow: 0px 6px 30px rgb(34 53 221);
+    border-radius: 30px 60px;
+}
+.sec3 {
+    margin-top: 158px;
+}
+.hetex h1 {
+    font-size: 43px;
+    font-weight: 300;
+    color: #dfc95f;
+}
+.hetex p {
+    text-align: center;
+    margin-top: 18px;
+    color: rgba(59, 56, 56, 0.842);
+    font-size: 14px;
+    font-weight: 300;
+}
+.section4 {
+    width: 100%;
+    height: 353px;
+    background-color: rgb(56, 194, 204);
+}
+.sefivt h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 70px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.sefivt p {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 15px;
+    color: #000;
+    font-weight: 400;
+}
+.butext h1 {
+    text-align: center;
+    font-size: 33px;
+    font-weight: 500;
+    color: rgb(223, 84, 84);
+    margin-top: 120px;
+    line-height: 13px;
+    letter-spacing: 3px;
+}
+.butext p {
+    text-align: center;
+    margin-top: 48px;
+    font-size: 15px;
+    color: rgb(146, 68, 68);
+}
+.col h3 {
+    width: fit-content;
+    margin-bottom: 19px;
+    position: relative;
+}
+
+
+footer span {
+    margin-left: 84px;
+    padding-top: 113px;
+    text-align: center;
+    color: #ddd;
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+          
+        }
+        @media screen and (max-width: 768px) {
+        
+          .nav-link {
+    color: #fff;
+    margin-bottom: 18px;
+    font-size: 15px;
+    margin-top: 3px;
+}
+.navbar-brand {
+    color: rgb(5, 115, 148);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    background-color: white;
+    padding: 11px;
+    box-shadow: 0px 5px 30px rgb(34 53 221);
+    border-radius: 25px 50px;
+    text-decoration: underline;
+    transition: 0.4s;
+}
+.herosec .heroimg {
+    height: 246px;
+    margin-top: 116px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 70px rgb(43 52 138);
+}
+.herosec h4 {
+    padding-top: 95px;
+    color: rgba(184, 14, 161, 0.938);
+    font-size: 21px;
+}
+.herosec h1 {
+    color: rgb(92, 82, 80);
+    font-size: 24px;
+    line-height: 40px;
+}
+.herosec p {
+    color: rgb(78, 66, 66);
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 23px;
+}
+.herobuto {
+    padding: 3px 9px;
+    border: 1px solid rgb(59, 87, 216);
+    border-radius: 10px 30px 30px 10px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.sec2 img {
+    height: 167px;
+    box-shadow: 0px 6px 30px rgb(34 53 221);
+    border-radius: 30px 60px;
+}
+.sec2 .text2 {
+    margin-left: 35px;
+    padding-top: 2px;
+}
+.sec2 .text2 h3 {
+    color: #ccc;
+    margin-bottom: -13px;
+}
+.sec2 .text2 h1 {
+    color: #000;
+    font-size: 21px;
+    margin-top: 17px;
+}
+.sec2 .text2 p {
+    color: rgb(90, 87, 87);
+    font-size: 8px;
+    margin-top: 8px;
+    text-align: justify;
+    font-weight: 500;
+}
+.sec2 .text2 button {
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(53, 51, 165);
+    color: #fff;
+    border: none;
+    box-shadow: -3px 1px 70px rgb(170 54 54);
+    transition: 0.5s;
+}
+.ttext {
+    width: 100%;
+    height: 51%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 77px;
+}
+/*Section-3*/
+.sec3 {
+    margin-top: 120px;
+}
+.hetex h1 {
+    font-size: 39px;
+    font-weight: 300;
+    color: #dfc95f;
+}
+.hetex p {
+    text-align: center;
+    margin-top: 18px;
+    color: rgba(59, 56, 56, 0.842);
+    font-size: 13px;
+    font-weight: 300;
+}
+
+/*Section-5*/
+.sefivt h1 {
+    text-align: center;
+    font-size: 29px;
+    margin-top: 88px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.sefivt p {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 13px;
+    color: #000;
+    font-weight: 500;
+}
+
+/*Section-5*/
+.butext h1 {
+    text-align: center;
+    font-size: 31px;
+    font-weight: 500;
+    color: rgb(223, 84, 84);
+    margin-top: 120px;
+    line-height: 9px;
+    letter-spacing: 2px;
+}
+.butext p {
+    text-align: center;
+    margin-top: 46px;
+    font-size: 11px;
+    color: rgb(146, 68, 68);
+}
+/*Fotter*/
+.col {
+    flex-basis: 25%;
+    padding: 26px;
+}
+.nav-link {
+    color: #fff;
+    margin-bottom: 18px;
+    font-size: 14px;
+    margin-top: -20px;
+}
+footer span {
+    margin-left: 62px;
+    padding-top: 132px;
+    text-align: center;
+    color: #ddd;
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+
+    }
+        @media screen and (max-width:538px) {
+        /*navbar*/
+        .navbar-brand {
+    color: rgb(5, 115, 148);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    background-color: white;
+    padding: 9px;
+    box-shadow: 0px 5px 30px rgb(34 53 221);
+    border-radius: 25px 50px;
+    text-decoration: underline;
+    transition: 0.4s;
+}
+.nav-link {
+    color: #fff;
+    margin-bottom: 31px;
+    font-size: 14px;
+    margin-top: 2px;
+}
+/*hero Section*/
+.herosec .heroimg {
+    height: 221px;
+    margin-top: 125px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 70px rgb(43 52 138);
+}
+.herosec h4 {
+    padding-top: 73px;
+    color: rgba(184, 14, 161, 0.938);
+    font-size: 18px;
+}
+.herosec h1 {
+    color: rgb(92, 82, 80);
+    font-size: 20px;
+    line-height: 30px;
+}
+.herosec p {
+    color: rgb(78, 66, 66);
+    font-size: 8px;
+    font-weight: 700;
+    line-height: 17px;
+}
+.herobuto {
+    padding: 3px 9px;
+    border: 1px solid rgb(59, 87, 216);
+    border-radius: 10px 30px 30px 10px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.5s;
+    font-size: 12px;
+}
+
+.herobuto {
+    padding: 3px 9px;
+    border: 1px solid rgb(59, 87, 216);
+    border-radius: 10px 30px 30px 10px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: 0.5s;
+    font-size: 12px;
+}
+/*Section-2*/
+.sec2 .text2 {
+    margin-left: 19px;
+    padding-top: 2px;
+}
+.sec2 img {
+    height: 140px;
+    box-shadow: 0px 6px 30px rgb(34 53 221);
+    border-radius: 30px 60px;
+}
+.sec2 .text2 h3 {
+    color: #ccc;
+    margin-bottom: -15px;
+}
+.sec2 .text2 h1 {
+    color: #000;
+    font-size: 17px;
+    margin-top: 17px;
+}
+.sec2 .text2 p {
+    color: rgb(90, 87, 87);
+    font-size: 7px;
+    margin-top: 5px;
+    text-align: justify;
+    font-weight: 700;
+}
+.sec2 .text2 button {
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(53, 51, 165);
+    color: #fff;
+    border: none;
+    box-shadow: -3px 1px 70px rgb(170 54 54);
+    font-size: 11px;
+    transition: 0.5s;
+}
+/*Section-3*/
+.hetex h1 {
+    font-size: 33px;
+    font-weight: 400;
+    color: #dfc95f;
+}
+.hetex p {
+    text-align: center;
+    margin-top: 17px;
+    color: rgba(59, 56, 56, 0.842);
+    font-size: 12px;
+    font-weight: 300;
+}
+/*Section*/
+.sefivt h1 {
+    text-align: center;
+    font-size: 26px;
+    margin-top: 88px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.sefivt p {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 11px;
+    color: #000;
+    font-weight: 500;
+}
+/*Fotter*/
+.col h3 {
+    width: fit-content;
+    margin-bottom: 48px;
+    position: relative;
+}
+.nav-link {
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 11px;
+    margin-top: -31px;
+}
+footer span {
+    margin-left: 38px;
+    padding-top: 132px;
+    text-align: center;
+    color: #ddd;
+    letter-spacing: 2px;
+    transition: 0.5s;
+}
+.col {
+    flex-basis: 25%;
+    padding: 31px;
+}
+
+    }
